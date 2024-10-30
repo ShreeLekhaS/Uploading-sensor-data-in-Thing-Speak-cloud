@@ -1,4 +1,6 @@
-# Uploading temperature sensor data in Thing Speak cloud
+# NAME:SHREE LEKHA S
+# REGISTER NO.: 212223110052
+# Ex-03  Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
