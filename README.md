@@ -1,5 +1,5 @@
-# NAME:SHREE LEKHA S
-# REGISTER NO.: 212223110052
+## NAME:SHREE LEKHA S
+## REGISTER NO.: 212223110052
 # Ex-03  Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
