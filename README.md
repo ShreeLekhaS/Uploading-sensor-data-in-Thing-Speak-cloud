@@ -1,4 +1,4 @@
-## NAME:SHREE LEKHA S
+![378057733-18399935-aff1-4881-aa09-b03990b04c69](https://github.com/user-attachments/assets/b2b37aa1-a2ae-4b8e-a44f-e73ca0ada5a4)## NAME:SHREE LEKHA S
 ## REGISTER NO.: 212223110052
 # Ex-03  Uploading temperature sensor data in Thing Speak cloud
 
@@ -137,9 +137,7 @@ Serial.print(humidity);
 }
 ```
 # CIRCUIT DIAGRAM:
-![Screenshot 2024-10-30 094819](https://github.com/user-attachments/assets/9994e774-ebac-460c-b3bb-9dbcf8587911)
-
-![Screenshot 2024-10-30 094842](https://github.com/user-attachments/assets/d6c3842c-ecee-4fa6-86f5-b8fca6c179e0)
+![Screenshot 2024-11-17 202817](https://github.com/user-attachments/assets/d9770b8d-9d59-4e06-828f-6edf9eae6997)
 
 
 # OUTPUT:
