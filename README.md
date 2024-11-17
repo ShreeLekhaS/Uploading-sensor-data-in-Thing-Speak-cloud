@@ -6,27 +6,27 @@
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
 
 # Apparatus required:
-ESP32 Controller  </br>
-Temperature Sensor </br>
-Power supply </br>
-Connecting wires </br>
-Bread board </br>
+* ESP32 Controller  </br>
+* Temperature Sensor </br>
+* Power supply </br>
+* Connecting wires </br>
+* Bread board </br>
 
 # PROCEDURE:
 ## Arduino IDE
-Step1:Open the Arduino IDE </br>
+Step1: Open the Arduino IDE </br>
 Step2: Go to sketch- include library – manage libraries file and install esp32 and thing speak library file </br>
-Step3:Go to file and select new file option </br>
-Step4:Type the program and update the thing speak channel ID, API key, wifi password and ID </br>
-Step5:Go to file and select save option to save the program </br>
-Step6:Go to sketch and select verify or compile options </br>
-Step7:If no error Hex file will be generated in the temporary folder </br>
+Step3: Go to file and select new file option </br>
+Step4: Type the program and update the thing speak channel ID, API key, wifi password and ID </br>
+Step5: Go to file and select save option to save the program </br>
+Step6: Go to sketch and select verify or compile options </br>
+Step7: If no error Hex file will be generated in the temporary folder </br>
 Step8: Connect all the components as per the circuit diagram </br>
 Step9: Connect the programming cable with esp32 and PC.  </br>
 Step10: Check the jumper position and connect 4 & 5 of P4.  </br>
-Step11. Upload the program in the esp32. </br>
-Step12 Press the boot button in ESP32 and then press and release the reset button after release the boot button </br>
-Step13 Check the output in the cloud </br>
+Step11: Upload the program in the esp32. </br>
+Step12: Press the boot button in ESP32 and then press and release the reset button after release the boot button </br>
+Step13: Check the output in the cloud </br>
 
 ## Thingspeak
 
@@ -141,7 +141,9 @@ Serial.print(humidity);
 
 
 # OUTPUT:
+## THINKSPEAK
 ![Screenshot 2024-10-30 094243](https://github.com/user-attachments/assets/a9ff6d6a-6040-4024-b6b2-34808ebe589a)
+## SERIAL MONITOR
 ![Screenshot 2024-11-17 203132](https://github.com/user-attachments/assets/fe65beda-01f3-4258-a139-ed08971d30d6)
 
 
