@@ -1,4 +1,4 @@
-![378057733-18399935-aff1-4881-aa09-b03990b04c69](https://github.com/user-attachments/assets/b2b37aa1-a2ae-4b8e-a44f-e73ca0ada5a4)## NAME:SHREE LEKHA S
+## NAME:SHREE LEKHA S
 ## REGISTER NO.: 212223110052
 # Ex-03  Uploading temperature sensor data in Thing Speak cloud
 
